@@ -1,5 +1,3 @@
-# Set working directory.
-setwd("~/MSBA/IS5152 Decision Making Technologies/Assignment 3/G12_e0056186_e0130739_e0056094_e0056268")
 ########## Below are the steps for data pre-processing. Tallmadge city in Ohio state is selected.
 ## Loading original dataset.
 # business <- read.csv("yelp_academic_dataset_business.csv")
