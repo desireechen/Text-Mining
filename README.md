@@ -1,13 +1,7 @@
 # Text Mining and Performance Tuning
 
-Data is taken from "Yelp Data Challenge" dataset.
+This project was done in R. Data is taken from "Yelp Dataset Challenge".
 
-Create "Sentiment Score" variable using Positive and Negative words dictionaries.
-Create variables using supervised learning approach. In this project, I have used Text Classification.
-Create variables using unsupervised learning approach. In this project, I have used Topic Modelling. 
+Create "Sentiment Score" variable using Positive and Negative words dictionaries. Create variables using supervised (Text Classification) and unsupervised (Topic Modelling) learning. Obtained external data (Price and Quality) from Yelp and TripAdvisor.
 
-Obtained external data (Price and Quality) from Yelp and TripAdvisor.
-
-Features transformation, Features scaling.
-Features selection using the AIC method.
-Ensemble method using a combination of Bagging and SVM.
+Conduct features transformation and features scaling. Features selection was done using the AIC method. Ensemble method using a combination of Bagging and SVM. 
